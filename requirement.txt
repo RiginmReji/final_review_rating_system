@@ -1,0 +1,12 @@
+django
+djangorestframework
+corsheaders
+tensorflow
+keras
+numpy
+pandas
+scikit-learn
+nltk
+joblib
+requests
+notebook
